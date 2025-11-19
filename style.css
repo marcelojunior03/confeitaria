@@ -82,3 +82,12 @@ h3{
   color: #f8b400;
   font-size: 18px;
 }
+
+footer{
+  background-color: #333;
+  color: white;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
